@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm febrifahmi
 
-- 🔭 I’m currently working on my project Rippleet (we still need CTO though..)
+- 🔭 I’m currently working on my project Rippleet (being part of 1000startupdigital program, still hangin there through incubation phase.. we still need CTO though..)
 - 🌱 I’m currently learning React Native and Flask
 <!--
 **febrifahmi/febrifahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
