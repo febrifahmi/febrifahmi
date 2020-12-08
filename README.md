@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm febrifahmi
+<img src="https://komarev.com/ghpvc/?username=febrifahmi" alt="febrifahmi">
 
 - 🔭 I’m currently working on my project [Rippleet](https://www.rippleet.com) (being part of 1000startupdigital program, still hangin there through incubation phase.. we still need CTO though..)
 - 🌱 I’m currently learning React Native and Flask
