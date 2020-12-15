@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Favorite stack
 
-|<img src="https://0to100academy.com/wp-content/uploads/2020/05/main-qimg-28cadbd02699c25a88e5c78d73c7babc-1.png" width=100px height=100px>|<img src="https://www.probytes.net/wp-content/uploads/2018/10/flask-logo-png-transparent.png" width=100px height=100px>|<img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" width=100px height=100px>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" width=100px height=100px>|<img src="https://pbs.twimg.com/profile_images/1156727030827716608/gppZ606-_400x400.png" width=100px height=100px>|<img src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png" width=100px height=100px>|
+|<img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width=100px height=100px>|<img src="https://www.probytes.net/wp-content/uploads/2018/10/flask-logo-png-transparent.png" width=100px height=100px>|<img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" width=100px height=100px>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" width=100px height=100px>|<img src="https://pbs.twimg.com/profile_images/1156727030827716608/gppZ606-_400x400.png" width=100px height=100px>|<img src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png" width=100px height=100px>|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 
