@@ -5,6 +5,7 @@
 - 🌱  I’m currently learning React Native and Flask
 - 🤔  as someone with architecture educational background, it's hard for me to enter the so called housing development world (mainly because it needs a lot of money to be able to do that).. yes, and the web development path has lower "barrier to entry" for people like me.. so here i am..
 - ⚡ Fun fact: student of intensive coding bootcamp which only cost me 200K IDR for a month of intensive online training (i've spent only 400K IDR to learn Laravel and React Native).. but the most valuable for me is the one provided for free by Miguel Grinber in his Full Flask Mega Tutorial (check it out, it's awesome piece of work!)
+- Now mostly active on github's sibling..
 <!--
 **febrifahmi/febrifahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- Now mostly active on github's sibling
+
 -->
 
 ### Favorite stack
