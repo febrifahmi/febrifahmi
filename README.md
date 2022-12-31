@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
-<img align="left" alt="febrifahmi Github Stats" src="https://github-readme-stats.vercel.app/api?username=febrifahmi&show_icons=true&hide_border=true" />
+[![febrifahmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=febrifahmi)](https://github.com/anuraghazra/github-readme-stats)
