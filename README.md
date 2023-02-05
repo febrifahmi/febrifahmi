@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=febrifahmi" alt="febrifahmi">
 
 How to reach me:
-- Twitter: @febriafahmi
+- Twitter: @febrifahmi
 - Github: @febrifahmi
 - Email: fahmi_fafa (AT) yahoo (dot) com
 
