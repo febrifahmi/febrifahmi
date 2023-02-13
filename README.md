@@ -10,3 +10,4 @@ How to reach me:
 
 - Flask (REST API)
 - Remix.run (Frontend)
+- React Native (mobile)
