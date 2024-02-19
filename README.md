@@ -6,7 +6,7 @@
 - Flask (REST API)
 - Remix.run (Frontend)
 - React Native (mobile)
-- Electron + React (desktop)
+- Electron + React (but now Tauri) (desktop)
 
 ### What's next...
 
